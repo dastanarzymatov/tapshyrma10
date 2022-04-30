@@ -8,6 +8,7 @@ public class tapshyrma10 {
 
         Scanner scanner = new Scanner(System.in);
         get(scanner.nextInt(), 3, 4, 5, 6, 7, 8, 9, 10);
+        System.out.println("Hello world!");
     }
 
     public static boolean get(int a, int... array) {
