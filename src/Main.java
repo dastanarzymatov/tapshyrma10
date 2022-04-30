@@ -9,7 +9,6 @@ public class Main {
 
         evenNumbers(getArray1);
         oddNumbers(getArray1);
-        System.out.println("Hello world!");
     }
 
 
